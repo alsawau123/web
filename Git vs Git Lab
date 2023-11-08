@@ -1,0 +1,32 @@
+VCS VERSION CONTROL SYSTEM / REVISION CONTROL SYSTEM  / SOURCE CODE MANAGEMENT: 
+UNTUK MENGELOLA SEBUAH DOKUMEN, PROGRAM KOMPUTER ATAU WEBSITE DAN KUMPULAN INFORMASI LAIN
+
+KEGUNAAN VCS:
+- Menyimpan sebuah rekaman SC
+- Untuk berkolaborasi 
+- Mengetahui yg melakukan perubahan dan kapan sebuah perubahan terjadi
+
+Berbagai VCS:
+- GIT
+- SUBVERSION
+- MERCURIAL
+- CVS
+
+GIT: software untuk mengelola VCS / perubahan file di dalam folder
+
+GITHub: website/layanan untuk mengelola project git
+
+GIT: "Riwayat perubahan file disimpan dengan menggunakan comit"
+
+
+ISTILAH GIT
+Repo: folder project kita
+Commit: rekaman / snapshot dari repo kita
+hash: penanda unik pada sebuah commit
+checkout: berpindah ke sebuha commit
+branch cabang bebas dari sebuah commit
+merge: menggabungkan branch
+remote: sumber yang memiliki repo
+clonde: mengambil repo dari remote
+push: mengirimkan commit ke repo
+pull: mengambil commit dari repo
