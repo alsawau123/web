@@ -4,9 +4,10 @@ membuat border
 membuat form
 -CSS
 membuat layout
--SCRIPT 
+-JAVASCRIPT 
 es6
 vue
 -PHP
 Laravel
 CRUD
+
