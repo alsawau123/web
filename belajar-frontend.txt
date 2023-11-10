@@ -1,0 +1,7 @@
+Belajar Fronted
+-HTML
+membuat border
+-CSS
+membuat layout
+-SCRIPT 
+-PHP
