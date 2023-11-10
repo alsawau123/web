@@ -1,6 +1,7 @@
 Belajar Fronted
 -HTML
 membuat border
+membuat form
 -CSS
 membuat layout
 -SCRIPT 
