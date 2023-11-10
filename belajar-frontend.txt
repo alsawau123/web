@@ -6,3 +6,5 @@ membuat form
 membuat layout
 -SCRIPT 
 -PHP
+Laravel
+CRUD
