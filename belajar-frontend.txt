@@ -3,8 +3,11 @@ Belajar Fronted
 membuat border
 membuat form
 -CSS
-
+membuat layout
 -JAVASCRIPT 
+es6
+vue
 -PHP
+Laravel
 CRUD
-OOP
+
