@@ -5,6 +5,8 @@ membuat form
 -CSS
 membuat layout
 -SCRIPT 
+es6
+vue
 -PHP
 Laravel
 CRUD
